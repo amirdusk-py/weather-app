@@ -36,11 +36,7 @@ Example:
 10- The last searched city is saved in localStorage.
 11- Dark mode toggles by switching a CSS class on <body>.
 
-/screenshots/light-mode.png
-/screenshots/dark-mode.png
-
 weather-app/
-│
 ├── index.html      # Main structure
 ├── style.css       # UI styling and animations
 ├── app.js          # JavaScript logic and API handling
