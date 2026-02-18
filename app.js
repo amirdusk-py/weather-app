@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY_HERE"; // <-- Use your own Code For better results (you should get ur own api or this will not work)
+const apiKey = "a84f31e07a48b162dee35c58068c4cf8"; // <-- Use your own Code For better results (you should get ur own api or this will not work)
 
 // DOM elements
 const cityInput = document.getElementById("cityInput");
@@ -74,3 +74,4 @@ function showError(msg){
   errorDiv.textContent = msg;
 
 }
+
