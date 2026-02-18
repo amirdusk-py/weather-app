@@ -3,7 +3,8 @@
 A modern, responsive Weather Application built using HTML, CSS, and Vanilla JavaScript that fetches real-time weather data from the OpenWeatherMap API.
 
 This project features dark mode support, local storage persistence, smooth animations, and clean UI design — making it both functional and visually appealing.
-Example:
+Example: https://amirdusk-py.github.io/weather-app/
+
 
 - ✨ Features
 - 🌍 Search weather by city name
